@@ -1,0 +1,9 @@
+C:\Users\Arnaldo\Desktop\CalculadoraLp2\CalculadoraLp2\bin\Debug\CalculadoraLp2.exe.config
+C:\Users\Arnaldo\Desktop\CalculadoraLp2\CalculadoraLp2\obj\Debug\CalculadoraLp2.csprojResolveAssemblyReference.cache
+C:\Users\Arnaldo\Desktop\CalculadoraLp2\CalculadoraLp2\obj\Debug\CalculadoraLp2.Form1.resources
+C:\Users\Arnaldo\Desktop\CalculadoraLp2\CalculadoraLp2\obj\Debug\CalculadoraLp2.Properties.Resources.resources
+C:\Users\Arnaldo\Desktop\CalculadoraLp2\CalculadoraLp2\obj\Debug\CalculadoraLp2.csproj.GenerateResource.Cache
+C:\Users\Arnaldo\Desktop\CalculadoraLp2\CalculadoraLp2\bin\Debug\CalculadoraLp2.exe
+C:\Users\Arnaldo\Desktop\CalculadoraLp2\CalculadoraLp2\bin\Debug\CalculadoraLp2.pdb
+C:\Users\Arnaldo\Desktop\CalculadoraLp2\CalculadoraLp2\obj\Debug\CalculadoraLp2.exe
+C:\Users\Arnaldo\Desktop\CalculadoraLp2\CalculadoraLp2\obj\Debug\CalculadoraLp2.pdb
