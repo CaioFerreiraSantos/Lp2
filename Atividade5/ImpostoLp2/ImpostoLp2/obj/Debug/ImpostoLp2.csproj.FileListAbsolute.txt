@@ -1,0 +1,9 @@
+C:\Users\Arnaldo\Desktop\ImpostoLp2\ImpostoLp2\bin\Debug\ImpostoLp2.exe.config
+C:\Users\Arnaldo\Desktop\ImpostoLp2\ImpostoLp2\bin\Debug\ImpostoLp2.exe
+C:\Users\Arnaldo\Desktop\ImpostoLp2\ImpostoLp2\bin\Debug\ImpostoLp2.pdb
+C:\Users\Arnaldo\Desktop\ImpostoLp2\ImpostoLp2\obj\Debug\ImpostoLp2.csprojResolveAssemblyReference.cache
+C:\Users\Arnaldo\Desktop\ImpostoLp2\ImpostoLp2\obj\Debug\ImpostoLp2.Form1.resources
+C:\Users\Arnaldo\Desktop\ImpostoLp2\ImpostoLp2\obj\Debug\ImpostoLp2.Properties.Resources.resources
+C:\Users\Arnaldo\Desktop\ImpostoLp2\ImpostoLp2\obj\Debug\ImpostoLp2.csproj.GenerateResource.Cache
+C:\Users\Arnaldo\Desktop\ImpostoLp2\ImpostoLp2\obj\Debug\ImpostoLp2.exe
+C:\Users\Arnaldo\Desktop\ImpostoLp2\ImpostoLp2\obj\Debug\ImpostoLp2.pdb
